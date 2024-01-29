@@ -2,7 +2,7 @@
 
 # IBM FRONT END
 
-Welcome to the IBM FRONT END project! This repository contains the front-end code for [description of your project]. Feel free to contribute, report issues, and make this project better!
+Welcome to the IBM FRONT END project! This repository contains the front-end code for A calculator that calculates simple interest given principal, annual rate of interest and time period in years. Feel free to contribute, report issues, and make this project better!
 
 ## Table of Contents
 
