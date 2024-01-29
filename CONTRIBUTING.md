@@ -1,6 +1,7 @@
 # Contributing to IBM FRONT END
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
-Thank you for considering contributing to the IBM FRONT END project! By contributing to this project, you agree to abide by our [Code of Conduct](./CODE_OF_CONDUCT.md).
+Thank you for considering contributing to the IBM FRONT END project! By contributing to this project, you agree to abide by our [29194848AJB](./CODE_OF_CONDUCT.md).
 
 ## How to Contribute
 
